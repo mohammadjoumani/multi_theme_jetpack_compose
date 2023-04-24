@@ -11,4 +11,4 @@ https://user-images.githubusercontent.com/53276286/233886193-cbc66531-7f5f-4f59-
 
 
 
-[Click here to read medium artical](www.google.com)
+[Click here to read medium artical](https://medium.com/@mohammadjoumani/multi-theme-in-jetpack-compose-db2eb7d4d187)
